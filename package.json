@@ -1,0 +1,7 @@
+{
+	"author": "Philip J.Fry && Voltaism",
+	"version": "0.1",
+	"client_scripts": [
+		"client.lua"
+	]
+}
